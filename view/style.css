@@ -1,0 +1,22 @@
+/* Css for header */
+.col-md-12{
+    padding:0;
+}
+/* Css for main */
+.title{
+    display: flex;
+}
+.title .title-new{
+    background-color: rgb(4, 80, 4);
+    color:white;
+    margin-right: 20px;
+    padding-right: 5px;
+    padding-left: 5px;
+}
+.col-md-6 .bi-list-ul{
+    font-size: 5px;
+}
+/* Css for section */
+.col-md .fs-6{
+    color:turquoise;
+}
